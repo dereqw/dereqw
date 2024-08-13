@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dereqw
 - 👀 I’m interested in web technologies
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently working with Node.js
 - 💞️ I’m looking to collaborate on back-end web developer projects
-- 📫 How to reach me via github
+- 📫 Eeach me via github
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I am economist
 
