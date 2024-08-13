@@ -2,7 +2,7 @@
 - 👀 I’m interested in web technologies
 - 🌱 I’m currently working with Node.js
 - 💞️ I’m looking to collaborate on back-end web developer projects
-- 📫 Eeach me via github
+- 📫 Reach me via github
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I am economist
 
